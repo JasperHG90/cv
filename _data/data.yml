@@ -7,19 +7,18 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Jasper Ginn
+    tagline: Data Scientist / Student
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: jasperginn@gmail.com
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: jasperginn
+    github: JasperHG90
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@jhginn'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,59 +27,43 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Dutch
+        level: Native
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: German
+        level: Elementary
 
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+#    interests:
+#      - item: Climbing
+#        link:
+#
+#      - item: Snowboarding
+#        link:
+#
+#      - item: Cooking
+#        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      A data scientist with a versatile background and a strong interest in
+      social and behavioural sciences, finance, artificial intelligence and
+      social good. Experience with project management, data dashboards,
+      consultancy, machine learning and academic writing.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: MSc, Methodology & Statistics
+      university: Utrecht University
+      time: 2018 - present
+      #details: |
+      #  pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+      #    - Bullet point
+      #    - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: BSc, Liberal Arts & Sciences
+      university: Leiden University
+      time: 2011 - 2014
 
 profdev:
     - degree: "Deep Learning Specialization"
@@ -88,23 +71,54 @@ profdev:
       dates: "August 2018 - Present"
       certificate: "https://www.coursera.org/specializations/deep-learning"
 
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+    - degree: "UT.5.05x: LAFF: Linear Algebra - Foundations to Frontiers"
+      college: "edX (University of Texas)"
+      dates: "May 2018"
+      certificate: "https://courses.edx.org/certificates/d86f74f75f1c41e486313d41a80768a0"
 
-          - Bullet point
-          - Bullet point
+    - degree: "DAT201x: Querying with Transact-SQL"
+      college: "edX (Microsoft)"
+      dates: "Apr. 2017"
+      certificate: "https://courses.edx.org/certificates/9634e8b4db1a4c98a896f23fd52e1872"
+
+    - degree: "Machine Learning"
+      college: "Coursera (Stanford University)"
+      dates: "Nov. 2016"
+      certificate: "https://www.coursera.org/account/accomplishments/verify/HGE62SSYGFCK"
+
+    - degree: "Machine Learning With Big Data"
+      college: "Coursera (UC San Diego)"
+      dates: "Jun. 2016"
+      certificate: "https://www.coursera.org/account/accomplishments/verify/PAQBLPZTU3YN"
+
+    - degree: "Introduction to Big Data Analytics"
+      college: "Coursera (UC San Diego)"
+      dates: "Apr. 2016"
+      certificate: "https://www.coursera.org/account/accomplishments/verify/WJQF2E5AUYYU"
+
+    - degree: "Hadoop Platform and Application Framework"
+      college: "Coursera (UC San Diego)"
+      dates: "Nov. 2015"
+      certificate: "https://www.coursera.org/account/accomplishments/verify/3NWYMEW55HEL"
+
+experiences:
+    - role: Research intern
+      time: Jun 2018 - Aug 2018
+      company: Cortical.io, Vienna
+      details: |
+        Investigated the application of Cortical.io's core technologies to
+        finance & investing. Focused on:
+
+          - Gaining an in-depth understanding of Cortical.io's core
+            technology and its application to large, textual datasets.
+          - Develop methods to process, store and query news articles
+            using Cortical.io's semantic folding technology
+          - Use these methods to develop a prototype for visualizing and
+            downloading historical and live data representing the nature
+            and quantity of news relevant to user-selected stocks, commodities
+            and portfolios.
+          - Serving as liaision between the research team led by Prof. David
+            Stolin and Cortical.
 
     - role: Senior Software Engineer
       time: 2014 - 2015
@@ -184,23 +198,32 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: R
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 75%
 
-      - name: Angular
-        level: 98%
+      - name: SQL
+        level: 50%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: NoSQL
+        level: 40%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+    other:
+      - name: Shiny
+      - name: Markdown
+      - name: Plumber
+      - name: Docker
+      - name: Pandas
+      - name: Keras
+      - name: Numpy
+      - name: Pytorch
+      - name: Linux
+      - name: Git
+      - name: Spark
+      - name: Jekyll
+      - name: Hugo
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
