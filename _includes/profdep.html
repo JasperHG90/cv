@@ -1,0 +1,11 @@
+{% assign profdev = site.data.data.profdev %}
+<div class="education-container container-block">
+  <h2 class="container-block-title">Professional development</h2>
+		{% for development in profdev %}
+            <div class="item">
+                <h4 class="degree"><a href={{development.certificate}} target="_blank">{{ development.degree }}</a></h4>
+                <h5 class="meta">{{ development.college }}</h5>
+                <div class="time">{{ development.dates }}</div>
+            </div><!--//item-->
+		{% endfor %}
+</div><!--//education-container-->

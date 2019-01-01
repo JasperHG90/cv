@@ -82,6 +82,12 @@ education:
           - Bullet point
           - Bullet point
 
+profdev:
+    - degree: "Deep Learning Specialization"
+      college: "Coursera (deeplearning.ai)"
+      dates: "August 2018 - Present"
+      certificate: "https://www.coursera.org/specializations/deep-learning"
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
