@@ -25,6 +25,31 @@
     </div><!--//item-->
     {% endfor %}
 
+  <br>
+  <div class="skillset">
+    <h3 class="level-title">OTHER:</h3>
+    <h5 class="meta">
+      <div class="item">
+
+        {% assign otherlist = skills.other %}
+
+        {% for skill in otherlist %}
+
+          {% if forloop.rindex < 1 %}
+
+            {{ skill.name }}
+
+          {% else %}
+
+            {{ skill.name }},
+
+          {% endif %}
+
+        {% endfor %}
+
+       </div>
+      </h5>
+    </div>
   </div>
 
 </section><!--//skills-section-->
