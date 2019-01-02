@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: jasperginn@gmail.com
-    website: blog.webjeda.com #do not add http://
+    website: jasperginn.nl #do not add http://
     linkedin: jasperginn
     github: JasperHG90
     gitlab:
@@ -22,6 +22,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    researchgate: jasper_ginn
 
     languages:
       - idiom: English
@@ -153,41 +154,37 @@ projects:
         tagline: "Phonetic text normalization using Recurrent Neural Networks."
 
       - title: qualtRics (deprecated)
-        link: ""
+        link: "https://github.com/ropensci/qualtRics"
         tagline: "Toolkit to retrieve Qualtrics surveys using the API."
 
       - title: FinTxt
         link: "<LINK-TO-BLOG>"
-        tagline: "Infrastructure created to continuously process news articles coverage about commodities and stocks"
+        tagline: "Back-end and front-end infrastructure for analyzing the stock price impact of news articles"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: sfutils
+        link: "https://github.com/JasperHG90/sfutils"
+        tagline: "R toolkit to work with Cortical's semantic folding technology."
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro:
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Evaluating retrieval practice in a MOOC: how writing and reading summaries of videos affects student learning."
+        authors: van der Zee, Tim, et al.
+        conference: Proceedings of the 8th International Conference on Learning Analytics and Knowledge. ACM, 2018.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "qualtRics: retrieve survey data using the Qualtrics API"
+        authors: Ginn, Jasper
+        conference: "Journal of Open Source Software, 3(24), 690, https://doi.org/10.21105/joss.00690 (2018)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Learning about Learning at Scale: Methodological Challenges and Recommendations"
+        authors: Van der Sluis, Frans, Tim Van der Zee, and Jasper Ginn
+        conference: "In Proceedings of the Fourth (2017) ACM Conference on Learning@ Scale. ACM, 2017."
 
+      - title: "Explaining Student Behavior at Scale: The influence of video complexity on student dwelling time"
+        authors: "Van der Sluis, F., Ginn, J., & Van der Zee, T."
+        conference: "In Proceedings of the Third (2016) ACM Conference on Learning@ Scale (pp. 51-60). ACM. 2016"
 skills:
     title: Skills &amp; Proficiency
 
