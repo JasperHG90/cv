@@ -8,7 +8,7 @@ OUTFILE="$PWD/JHGINN_CV.pdf"
 
 # Convert cv html to pdf
 # - Viewport sets the 'size' of the screen that is visiting the website
-wkhtmltopdf --javascript-delay 5000 --viewport-size 1280x1024 https://jasperhg90.github.io/cv/ $OUTFILE
+wkhtmltopdf --javascript-delay 10000 --viewport-size 1280x1024 https://jasperhg90.github.io/cv/ $OUTFILE
 
 # Kill server
 #ps aux |grep jekyll |awk '{print $2}' | xargs kill -9
