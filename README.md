@@ -9,13 +9,13 @@
 ## Changes made to fork
 
 - Added 'professional development' section for online courses
-- Add a bash script 'build_pdf.sh' that converts the html resume version into a pdf. This requires an install of [wkhtmltopdf](https://wkhtmltopdf.org/). To run this script, build your jekyll site. Push it to GitHub. Wait for it to change on GH pages and run
+- Add a bash script 'build_pdf.sh' that converts the html resume version into a pdf. This requires an install of [wkhtmltopdf](https://wkhtmltopdf.org/). To run this script, build your jekyll site. Push it to GitHub. Then open the 'build_pdf.sh' file and change the name of the output pdf and the github site. Wait for it to change on GH pages and run
 
 ```bash
 bash build_pdf.sh
 ```
 
-In a terminal. 
+In a terminal.
 
 ## Original README
 
