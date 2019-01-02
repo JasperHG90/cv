@@ -188,7 +188,8 @@ p {
         font-weight: 500;
     }
     .time {
-        position: absolute;
+        position: static;
+        display: block;
         right: 0;
         top: 0;
         color: $text-grey;
