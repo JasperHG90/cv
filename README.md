@@ -3,8 +3,19 @@
 </a>
 
 # Orbit
-> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
+> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
+
+## Changes made to fork
+
+- Added 'professional development' section for online courses
+- Add a bash script 'build_pdf.sh' that converts the html resume version into a pdf. This requires an install of [wkhtmltopdf](https://wkhtmltopdf.org/). To run this script, serve jekyll locally on port 4000, and (in another terminal), execute:
+
+```bash
+bash build_pdf.sh
+```
+
+## Original README
 
 I have made this into a Jekyll Theme. Checkout the live demo [here](https://webjeda.com/online-cv/).
 

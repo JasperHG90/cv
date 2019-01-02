@@ -120,51 +120,45 @@ experiences:
           - Serving as liaision between the research team led by Prof. David
             Stolin and Cortical.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Data Analyst
+      time: Mar 2015 - Feb 2017
+      company: Leiden University Center for Innovation, The Hague
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Data analyst at the Leiden Center for Innovation, Online Learning Lab (OLL).
+        The OLL facilitates the development of Massive Open Online Courses (MOOCs)
+        at Leiden University. I was responsible for retrieving, storing and analysing
+        MOOC data with the aim of improving courses and providing feedback to content
+        creators & academics. Co-published several academic articles with researchers
+        and published open-source tools for analysing MOOC data."
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Assistant Strategic Analyst (Internship Program)
+      time: Sep 2014 - Feb 2015
+      company: The Hague Centre for Strategic Studies, The Hague
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        The HCSS helps governments, non-governmental organisations and the private
+        sector to anticipate the challenges of the future with practical policy solutions
+        and advice. While at the HCSS, I worked on several projects in areas of Big Data,
+        security studies, and international development. Further set up an event-monitoring
+        server that scraped and processed roughly 20.000-50.000 news articles each day, and
+        created a package in R to analyze assertive behaviour among 'great powers' such as
+        Russia, the United States and China.
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Phonorm
+        link: "https://github.com/JasperHG90/phonorm"
+        tagline: "Phonetic text normalization using Recurrent Neural Networks."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: qualtRics (deprecated)
+        link: ""
+        tagline: "Toolkit to retrieve Qualtrics surveys using the API."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: FinTxt
+        link: "<LINK-TO-BLOG>"
+        tagline: "Infrastructure created to continuously process news articles coverage about commodities and stocks"
 
       - title: Atom
         link: "#"
