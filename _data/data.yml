@@ -158,11 +158,11 @@ projects:
         tagline: "Toolkit to retrieve Qualtrics surveys using the API."
 
       - title: FinTxt
-        link: "<LINK-TO-BLOG>"
+        link: "https://fintxt.github.io/documentation/index.html"
         tagline: "Back-end and front-end infrastructure for analyzing the stock price impact of news articles"
 
       - title: sfutils
-        link: "https://github.com/JasperHG90/sfutils"
+        link: "https://jasperginn.io/sfutils/"
         tagline: "R toolkit to work with Cortical's semantic folding technology."
 
 publications:
