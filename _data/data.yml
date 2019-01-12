@@ -150,7 +150,7 @@ projects:
 
     assignments:
       - title: Phonorm
-        link: "https://github.com/JasperHG90/phonorm"
+        link: "https://jasperginn.io/Phonorm/"
         tagline: "Phonetic text normalization using Recurrent Neural Networks."
 
       - title: qualtRics (deprecated)
