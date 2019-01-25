@@ -50,7 +50,7 @@ career-profile:
       A data scientist with a versatile background and a strong interest in
       social and behavioural sciences, finance, artificial intelligence and
       social good. Experience with project management, data dashboards,
-      consultancy, machine learning and academic writing.
+      machine learning and academic writing.
 
 education:
     - degree: MSc, Methodology & Statistics
@@ -103,6 +103,10 @@ profdev:
       certificate: "https://www.coursera.org/account/accomplishments/verify/3NWYMEW55HEL"
 
 experiences:
+    - role: Data Scientist
+      time: Oct 2018 - current
+      company: Leiden University Center for Innovation, The Hague
+
     - role: Research intern
       time: Jun 2018 - Aug 2018
       company: Cortical.io, Vienna
@@ -194,6 +198,9 @@ skills:
 
       - name: Python
         level: 75%
+
+      - name: Julia
+        level: 50%
 
       - name: SQL
         level: 50%
