@@ -48,7 +48,7 @@ career-profile:
     title: Career Profile
     summary: |
       A data scientist with a versatile background and a strong interest in
-      social and behavioural sciences, finance and artificial intelligence. 
+      social and behavioural sciences, finance and artificial intelligence.
       Experience with project management, data dashboards,
       machine learning and academic writing.
 
@@ -56,11 +56,11 @@ education:
     - degree: MSc, Methodology & Statistics
       university: Utrecht University
       time: 2018 - present
-      #details: |
-	This top-rated Research Master's programme is offered by Utrecht University, 
-	the Utrecht Medical Center, and the Technical University of Twente. The programme 
-	focuses on applying, evaluating, and developing quantative methods. Following courses
-	in mathematical statistics, multivariate statistics, data mining and statistical learning.
+      details: |
+        This top-rated Research Master's programme is offered by Utrecht University,
+        the Utrecht Medical Center, and the Technical University of Twente. The programme
+        focuses on applying, evaluating, and developing quantative methods. Following courses
+        in mathematical statistics, multivariate statistics, data mining and statistical learning.
 
     - degree: BSc, Liberal Arts & Sciences
       university: Leiden University
@@ -112,19 +112,19 @@ experiences:
       time: Jun 2019 - Aug 2019
       company: Cortical.io, Vienna
       details: |
-	Part of academic team investigating the use of Cortical's 'Semantic Folding'
-	in predicting stock and commodity price volatility using close to one billion
-	news articles going back to 2016. Responsibilities include:
-	
-	  - Building and maintaining infrastructure using Python, PostGreSQL, Docker and 
-	    Google Cloud Services to process historical and current news articles using
+        Part of academic team investigating the use of Cortical's 'Semantic Folding'
+        in predicting stock and commodity price volatility using close to one billion
+        news articles going back to 2016. Responsibilities include:
+
+          - Building and maintaining infrastructure using Python, PostGreSQL, Docker and
+            Google Cloud Services to process historical and current news articles using
             Cortical's semantic folding algorithm.
-	  - Aid in collecting and preprocessing training data to create custom models.
-	  - Design and implement downstream tests to assess the usefulness of custom
- 	    models, including the implementation of several monte carlo experiments.
-	  - Provide support to other researchers in terms of statistical expertise and
-	    by creating custom docker applications that simplify the access to the 
-	    custom models by means of a local API.
+          - Aid in collecting and preprocessing training data to create custom models.
+          - Design and implement downstream tests to assess the usefulness of custom
+            models, including the implementation of several monte carlo experiments.
+          - Provide support to other researchers in terms of statistical expertise and
+            by creating custom docker applications that simplify the access to the
+            custom models by means of a local API.
 
     - role: Data Scientist
       time: Oct 2018 - current
@@ -256,6 +256,9 @@ skills:
       - name: Spark
       - name: Jekyll
       - name: Hugo
+      - name: MLM
+      - name: Mplus
+      - name: SPSS
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
