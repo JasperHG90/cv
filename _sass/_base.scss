@@ -13,6 +13,10 @@ h1, h2, h3, h4, h5, h6  {
     font-weight: 700;
 }
 
+details-edu {
+    font-size: 11px
+}
+
 a {
     color: darken($theme-color, 15%);
     &:hover {

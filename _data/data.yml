@@ -47,20 +47,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A data scientist with a versatile background and a strong interest in
+      Data scientist with a versatile background and a strong interest in
       social and behavioural sciences, finance and artificial intelligence.
-      Experience with project management, data dashboards,
-      machine learning and academic writing.
+      Experience with project management, data dashboards, machine learning and
+      academic writing. Currently in the last year of my MSc. Following courses in
+      mathematical statistics, multivariate statistics, data mining and statistical learning.
 
 education:
     - degree: MSc, Methodology & Statistics
       university: Utrecht University
       time: 2018 - present
       details: |
-        This top-rated Research Master's programme is offered by Utrecht University,
-        the Utrecht Medical Center, and the Technical University of Twente. The programme
-        focuses on applying, evaluating, and developing quantative methods. Following courses
-        in mathematical statistics, multivariate statistics, data mining and statistical learning.
+        The programme focuses on applying, evaluating, and developing quantative methods. Following courses in mathematical statistics, multivariate statistics, data mining and statistical learning.
 
     - degree: BSc, Liberal Arts & Sciences
       university: Leiden University
@@ -119,12 +117,12 @@ experiences:
           - Building and maintaining infrastructure using Python, PostGreSQL, Docker and
             Google Cloud Services to process historical and current news articles using
             Cortical's semantic folding algorithm.
-          - Aid in collecting and preprocessing training data to create custom models.
+          - Aid in collecting and preprocessing training data to create custom models using Cortical's semantic folding algorithm.
           - Design and implement downstream tests to assess the usefulness of custom
-            models, including the implementation of several monte carlo experiments.
+            models, using e.g. monte carlo simulations, clustering methods and convolutional/recurrent neural networks.
           - Provide support to other researchers in terms of statistical expertise and
             by creating custom docker applications that simplify the access to the
-            custom models by means of a local API.
+            custom models.
 
     - role: Data Scientist
       time: Oct 2018 - current
@@ -152,12 +150,10 @@ experiences:
       time: Mar 2015 - Feb 2017
       company: Leiden University Center for Innovation, The Hague
       details: |
-        Data analyst at the Leiden Center for Innovation, Online Learning Lab (OLL).
-        The OLL facilitates the development of Massive Open Online Courses (MOOCs)
-        at Leiden University. I was responsible for retrieving, storing and analysing
+        The Center for Innovation facilitates the development of Massive Open Online Courses (MOOCs) at Leiden University. I was responsible for retrieving, storing and analysing
         MOOC data with the aim of improving courses and providing feedback to content
         creators & academics. Co-published several academic articles with researchers
-        and published open-source tools for analysing MOOC data."
+        and published open-source tools to process and analyze MOOC data.
 
     - role: Assistant Strategic Analyst (Internship Program)
       time: Sep 2014 - Feb 2015
@@ -186,11 +182,11 @@ projects:
 
       - title: blm
         link: "https://github.com/JasperHG90/blm"
-        tagline: "R library that contains an implementation of bayesian linear regression in R and Julia and many other core notions of bayesian analysis such as posterior predictive checks, multilevel bayesian models, MCMC sampling and model evaluation."
+        tagline: "R library that contains an implementation of bayesian linear regression in R and Julia, as well as many other core features of bayesian analysis such as posterior predictive checks, multilevel bayesian models, MCMC sampling and model evaluation."
 
       - title: pararius
         link: "https://github.com/JasperHG90/pararius"
-        tagline: "Docker application that scrapes the website pararius every couple of minutes to check for new apartment listings. Written using R and Python."
+        tagline: "Docker application that scrapes the website pararius every couple of minutes to check for new apartment listings. Written in R and Python."
 
       - title: qualtRics
         link: "https://github.com/ropensci/qualtRics"
@@ -259,6 +255,7 @@ skills:
       - name: MLM
       - name: Mplus
       - name: SPSS
+      - name:
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
