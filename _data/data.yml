@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: jasperginn@gmail.com
-    website: jasperginn.io #do not add http://
+    website: jasperhg90.github.io #do not add http://
     linkedin: jasperginn
     github: JasperHG90
     gitlab:
@@ -51,20 +51,25 @@ career-profile:
       social and behavioural sciences, finance and artificial intelligence.
       Experience with project management, data dashboards, machine learning and
       academic writing. Currently in the last year of my MSc. Following courses in
-      mathematical statistics, multivariate statistics, data mining and statistical learning.
+      mathematical statistics, multivariate statistics, data mining and pattern recognition.
 
 education:
     - degree: MSc, Methodology & Statistics
       university: Utrecht University
       time: 2018 - present
       details: |
-        The programme focuses on applying, evaluating, and developing quantative methods. Following courses in mathematical statistics, multivariate statistics, data mining and statistical learning.
+        The programme focuses on applying, evaluating, and developing quantative methods. Following courses in mathematical statistics, multivariate statistics, data mining and machine learning.
 
     - degree: BSc, Liberal Arts & Sciences
       university: Leiden University
       time: 2011 - 2014
 
 profdev:
+    - degree: "Fundamentals of Reinforcement Learning"
+      college: "Coursera (Univ. of Alberta)"
+      dates: "December 2019 - present"
+      certificate: "https://www.coursera.org/learn/fundamentals-of-reinforcement-learning"
+
     - degree: "Practical Time Series Analysis"
       college: "Coursera (Univ. of New York)"
       dates: "August 2019 - present"
@@ -106,7 +111,15 @@ profdev:
       certificate: "https://www.coursera.org/account/accomplishments/verify/3NWYMEW55HEL"
 
 experiences:
-    - role: Research trainee
+    - role: Data Scientist
+      time: Oct 2018 - December 2019
+      company: Leiden University Center for Innovation, The Hague
+      details: |
+        We support Leiden University and its partners to make positive social impact using data and artificial intelligence. 
+        We do so by piloting data-driven solutions to societal challenges, while taking into account the human aspects of data 
+        such as privacy, transparency and fairness.
+
+    - role: Research intern
       time: Jun 2019 - Aug 2019
       company: Cortical.io, Vienna
       details: |
@@ -123,10 +136,6 @@ experiences:
           - Provide support to other researchers in terms of statistical expertise and
             by creating custom docker applications that simplify the access to the
             custom models.
-
-    - role: Data Scientist
-      time: Oct 2018 - current
-      company: Leiden University Center for Innovation, The Hague
 
     - role: Research intern
       time: Jun 2018 - Aug 2018
@@ -255,7 +264,6 @@ skills:
       - name: MLM
       - name: Mplus
       - name: SPSS
-      - name:
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
