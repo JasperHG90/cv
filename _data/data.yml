@@ -276,6 +276,7 @@ skills:
       - name: Pyspark
       - name: Hyperopt
       - name: FastAPI
+      - name: Scrapy
       - name: Linux
       - name: Google cloud
       - name: Jekyll
