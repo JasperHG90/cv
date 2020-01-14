@@ -275,6 +275,7 @@ skills:
       - name: Gensim
       - name: Pyspark
       - name: Hyperopt
+      - name: FastAPI
       - name: Linux
       - name: Google cloud
       - name: Jekyll
