@@ -274,6 +274,7 @@ skills:
       - name: Pyspark
       - name: Hyperopt
       - name: Linux
+      - name: Google cloud
       - name: Jekyll
       - name: Hugo
 
