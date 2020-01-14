@@ -182,7 +182,7 @@ projects:
 
     assignments:
       - title: Phonorm
-        link: "https://jasperginn.io/Phonorm/"
+        link: "https://jasperhg90.github.io/Phonorm/"
         tagline: "Phonetic text normalization using Recurrent Neural Networks."
 
       - title: NNet
@@ -206,7 +206,7 @@ projects:
         tagline: "Back-end and front-end infrastructure for analyzing the stock price impact of news articles"
 
       - title: sfutils
-        link: "https://jasperginn.io/sfutils/"
+        link: "https://jasperhg90.github.io/sfutils/"
         tagline: "R library that ports and extends Cortical's semantic fingerprinting API to R."
 
 publications:
@@ -248,22 +248,34 @@ skills:
         level: 40%
 
     other:
-      - name: Shiny
-      - name: Markdown
-      - name: Plumber
-      - name: Docker
-      - name: Pandas
-      - name: Keras
-      - name: Numpy
-      - name: Pytorch
-      - name: Linux
+      - name: Pycharm
+      - name: Visual Studio
+      - name: Rstudio
+      - name: Jupyter
+      - name: Bash
       - name: Git
-      - name: Spark
-      - name: Jekyll
-      - name: Hugo
+      - name: Docker
       - name: MLM
       - name: Mplus
       - name: SPSS
+      - name: Hadoop
+      - name: Spark
+      - name: Shiny
+      - name: Markdown
+      - name: Tidyverse
+      - name: Plumber
+      - name: Pandas
+      - name: Numpy
+      - name: Dask
+      - name: Keras
+      - name: Pytorch
+      - name: spaCy
+      - name: Gensim
+      - name: Pyspark
+      - name: Hyperopt
+      - name: Linux
+      - name: Jekyll
+      - name: Hugo
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
