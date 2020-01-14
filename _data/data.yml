@@ -117,7 +117,9 @@ experiences:
       details: |
         We support Leiden University and its partners to make positive social impact using data and artificial intelligence. 
         We do so by piloting data-driven solutions to societal challenges, while taking into account the human aspects of data 
-        such as privacy, transparency and fairness.
+        such as privacy, transparency and fairness. In this role, I aided the Data Intelligence Team in providing analytics for
+        our partners. Furthermore, I designed a recurrent neural networks that performs phonetic normalization in the chatbot
+        we created for the World Food Programme.
 
     - role: Research intern
       time: Jun 2019 - Aug 2019
