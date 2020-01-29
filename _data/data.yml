@@ -183,6 +183,10 @@ projects:
     intro:
 
     assignments:
+      - title: PatternRecognition
+        link: "https://github.com/JasperHG90/PatternRecognition"
+        tagline: "Group project in which we used several neural network architectures to predict the main topic of Wikipedia articles."
+
       - title: Phonorm
         link: "https://jasperhg90.github.io/Phonorm/"
         tagline: "Phonetic text normalization using Recurrent Neural Networks."
