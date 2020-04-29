@@ -112,6 +112,14 @@ profdev:
 
 experiences:
     - role: Data Scientist
+      time: January 2020 - present
+      company: FinTxt, The Hague
+      details: |
+        Data scientist in a team of finance researchers at the Toulouse Business School and Ben Gurion university. In this role,
+        I primarily manage and analyze large textual datasets. I also develop methodological tools that the researchers can use 
+        to process and analyze their own data.
+
+    - role: Data Scientist
       time: Oct 2018 - December 2019
       company: Leiden University Center for Innovation, The Hague
       details: |
@@ -261,6 +269,7 @@ skills:
       - name: Bash
       - name: Git
       - name: Docker
+      - name: Singularity
       - name: MLM
       - name: Mplus
       - name: SPSS
@@ -283,6 +292,7 @@ skills:
       - name: Scrapy
       - name: Linux
       - name: Google cloud
+      - name: MS Azure
       - name: Jekyll
       - name: Hugo
 
