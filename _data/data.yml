@@ -185,6 +185,10 @@ projects:
         link: "https://github.com/JasperHG90/sleepsimR-documentation"
         tagline: "This repository contains the research archive accompanying my Master's thesis."
 
+      - title: qualtRics
+        link: "https://github.com/ropensci/qualtRics"
+        tagline: "R library that I created to simplify the retrieval of survey results from Qualtrics. Original author and creator of the library, which is now managed by Julia Silge. This library is downloaded 2.000+ a month from CRAN."
+
       - title: Hierarchical-Attention-Network
         link: "https://github.com/JasperHG90/PatternRecognition/blob/master/HAN.py"
         tagline: "Implemented a Hierarhical Attention Network in Pytorch as part of a group project in which we used several neural network architectures to predict the main topic of Wikipedia articles."
@@ -196,10 +200,6 @@ projects:
       - title: blm
         link: "https://github.com/JasperHG90/blm"
         tagline: "R library that contains an implementation of bayesian linear regression in R and Julia, as well as many other core features of bayesian analysis such as posterior predictive checks, multilevel bayesian models, MCMC sampling and model evaluation."
-
-      - title: qualtRics
-        link: "https://github.com/ropensci/qualtRics"
-        tagline: "Toolkit to retrieve Qualtrics surveys using the API. Original author and creator of the library, which is now managed by Julia Silge."
 
       - title: sfutils
         link: "https://jasperhg90.github.io/sfutils/"
