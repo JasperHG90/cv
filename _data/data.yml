@@ -211,19 +211,19 @@ publications:
 
     papers:
       - title: "Evaluating retrieval practice in a MOOC: how writing and reading summaries of videos affects student learning."
-        authors: van der Zee, Tim, et al.
+        authors: "Van der Zee, Tim, et al."
         conference: Proceedings of the 8th International Conference on Learning Analytics and Knowledge. ACM, 2018.
 
       - title: "qualtRics: retrieve survey data using the Qualtrics API"
-        authors: Ginn, Jasper
+        authors: "Ginn, Jasper"
         conference: "Journal of Open Source Software, 3(24), 690, https://doi.org/10.21105/joss.00690, 2018"
 
       - title: "Learning about Learning at Scale: Methodological Challenges and Recommendations"
-        authors: Van der Sluis, Frans, Tim Van der Zee, and Jasper Ginn
+        authors: "Van der Sluis, Frans, Tim van der Zee, and Jasper Ginn"
         conference: "In Proceedings of the Fourth (2017) ACM Conference on Learning@ Scale. ACM, 2017."
 
       - title: "Explaining Student Behavior at Scale: The influence of video complexity on student dwelling time"
-        authors: "Van der Sluis, F., Ginn, J., & Van der Zee, T."
+        authors: "Van der Sluis, Frans, Jasper Ginn, and Tim van der Zee"
         conference: "In Proceedings of the Third (2016) ACM Conference on Learning@ Scale (pp. 51-60). ACM. 2016"
 skills:
     title: Skills &amp; Proficiency
