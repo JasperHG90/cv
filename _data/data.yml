@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jasper Ginn
-    tagline: Data Scientist / Student
+    tagline: Data Scientist
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -48,31 +48,30 @@ career-profile:
     title: Career Profile
     summary: |
       Data scientist with a versatile background and a strong interest in
-      social and behavioural sciences, finance and artificial intelligence.
+      social and behavioural sciences, health analytics and artificial intelligence.
       Experience with project management, data dashboards, machine learning and
-      academic writing. Currently in the last year of my MSc. Following courses in
-      mathematical statistics, multivariate statistics, data mining and pattern recognition.
+      academic writing. Recently finished my MSc in applied statistics. 
 
 education:
     - degree: MSc, Methodology & Statistics
       university: Utrecht University
-      time: 2018 - present
+      time: 2018 - 2020
       details: |
-        The programme focuses on applying, evaluating, and developing quantative methods. Following courses in mathematical statistics, multivariate statistics, data mining and machine learning.
+        This programme focuses on applying, evaluating, and developing quantative methods. Following courses in mathematical statistics, multivariate statistics, data mining and machine learning.
 
     - degree: BSc, Liberal Arts & Sciences
       university: Leiden University
       time: 2011 - 2014
 
 profdev:
-    - degree: "Fundamentals of Reinforcement Learning"
-      college: "Coursera (Univ. of Alberta)"
-      dates: "December 2019 - present"
-      certificate: "https://www.coursera.org/learn/fundamentals-of-reinforcement-learning"
+    - degree: "Bayesian Methods for Machine Learning"
+      college: "Coursera (National Research University Higher School of Economics)"
+      dates: "May 2020 - present"
+      certificate: "https://www.coursera.org/learn/bayesian-methods-in-machine-learning"
 
     - degree: "Practical Time Series Analysis"
       college: "Coursera (Univ. of New York)"
-      dates: "August 2019 - present"
+      dates: "April 2020 - present"
       certificate: "https://www.coursera.org/learn/practical-time-series-analysis/"
 
     - degree: "Deep Learning Specialization"
@@ -116,7 +115,7 @@ experiences:
       company: FinTxt, The Hague
       details: |
         Data scientist in a team of finance researchers at the Toulouse Business School and Ben Gurion university. In this role,
-        I primarily manage and analyze large textual datasets. I also develop methodological tools that the researchers can use 
+        I primarily manage and analyze large textual datasets, and also develop methodological tools that the researchers can use 
         to process and analyze their own data.
 
     - role: Data Scientist
@@ -125,34 +124,16 @@ experiences:
       details: |
         The CFI data intelligence guild supports Leiden University and its partners to make positive social impact using data 
         and artificial intelligence. We do so by piloting data-driven solutions to societal challenges, while taking into account 
-        the human aspects of data such as privacy, transparency and fairness. In this role, I aided the Data Intelligence Team in 
-        providing analytics for our partners. Furthermore, I designed a recurrent neural network that performs phonetic normalization 
-        in the chatbot we created for the World Food Programme.
+        the human aspects of data such as privacy, transparency and fairness. I was part of the Data Intelligence Team, a small group of
+        data scientists that provide analytics for our partners. 
 
     - role: Research intern
-      time: Jun 2019 - Aug 2019
+      time: Jun 2018 - Aug 2018 and Jun 2019 - Aug 2019
       company: Cortical.io, Vienna
       details: |
         Part of academic team investigating the use of Cortical's 'Semantic Folding'
         in predicting stock and commodity price volatility using close to one billion
         news articles going back to 2016. Responsibilities include:
-
-          - Building and maintaining infrastructure using Python, PostGreSQL, Docker and
-            Google Cloud Services to process historical and current news articles using
-            Cortical's semantic folding algorithm.
-          - Aid in collecting and preprocessing training data to create custom models using Cortical's semantic folding algorithm.
-          - Design and implement downstream tests to assess the usefulness of custom
-            models, using e.g. monte carlo simulations, clustering methods and convolutional/recurrent neural networks.
-          - Provide support to other researchers in terms of statistical expertise and
-            by creating custom docker applications that simplify the access to the
-            custom models.
-
-    - role: Research intern
-      time: Jun 2018 - Aug 2018
-      company: Cortical.io, Vienna
-      details: |
-        Investigated the application of Cortical.io's core technologies to
-        finance & investing. Focused on:
 
           - Gaining an in-depth understanding of Cortical.io's core
             technology and its application to large, textual datasets.
@@ -164,15 +145,24 @@ experiences:
             and portfolios.
           - Serving as liaision between the research team led by Prof. David
             Stolin and Cortical.
+          - Building and maintaining infrastructure using Python, PostGreSQL, Docker and
+            Google Cloud Services to process historical and current news articles using
+            Cortical's semantic folding algorithm.
+          - Aid in collecting and preprocessing training data to create custom models using Cortical's semantic folding algorithm.
+          - Design and implement downstream tests to assess the usefulness of custom
+            models, using e.g. monte carlo simulations, clustering methods and convolutional/recurrent neural networks.
+          - Provide support to other researchers in terms of statistical expertise and
+            by creating custom docker applications that simplify the access to the
+            custom models.
 
     - role: Data Analyst
       time: Mar 2015 - Feb 2017
       company: Leiden University Center for Innovation, The Hague
       details: |
-        The Center for Innovation facilitates the development of Massive Open Online Courses (MOOCs) at Leiden University. I was responsible for retrieving, storing and analysing
-        MOOC data with the aim of improving courses and providing feedback to content
-        creators & academics. Co-published several academic articles with researchers
-        and published open-source tools to process and analyze MOOC data.
+        The Center for Innovation facilitates the development of Massive Open Online Courses (MOOCs) at Leiden University. 
+        I was responsible for retrieving, storing and analysing MOOC data with the aim of improving courses and providing 
+        feedback to content creators and academics. Co-published several academic articles with researchers and published 
+        open-source tools to process and analyze MOOC data.
 
     - role: Assistant Strategic Analyst (Internship Program)
       time: Sep 2014 - Feb 2015
@@ -191,6 +181,10 @@ projects:
     intro:
 
     assignments:
+      - title: sleepsimR
+        link: "https://github.com/JasperHG90/sleepsimR-documentation"
+        tagline: "This repository contains the research archive accompanying my Master's thesis."
+
       - title: Hierarchical-Attention-Network
         link: "https://github.com/JasperHG90/PatternRecognition/blob/master/HAN.py"
         tagline: "Implemented a Hierarhical Attention Network in Pytorch as part of a group project in which we used several neural network architectures to predict the main topic of Wikipedia articles."
@@ -199,25 +193,13 @@ projects:
         link: "https://jasperhg90.github.io/Phonorm/"
         tagline: "Phonetic text normalization using Recurrent Neural Networks."
 
-      - title: NNet
-        link: "https://github.com/JasperHG90/JuliaNeuralNet"
-        tagline: "Implementation of a multi-layered vanilla neural network from scratch in Julia."
-
       - title: blm
         link: "https://github.com/JasperHG90/blm"
         tagline: "R library that contains an implementation of bayesian linear regression in R and Julia, as well as many other core features of bayesian analysis such as posterior predictive checks, multilevel bayesian models, MCMC sampling and model evaluation."
 
-      - title: pararius
-        link: "https://github.com/JasperHG90/pararius"
-        tagline: "Docker application that scrapes the website pararius every couple of minutes to check for new apartment listings. Written in R and Python."
-
       - title: qualtRics
         link: "https://github.com/ropensci/qualtRics"
         tagline: "Toolkit to retrieve Qualtrics surveys using the API. Original author and creator of the library, which is now managed by Julia Silge."
-
-      - title: FinTxt
-        link: "https://fintxt.github.io/documentation/index.html"
-        tagline: "Back-end and front-end infrastructure for analyzing the stock price impact of news articles"
 
       - title: sfutils
         link: "https://jasperhg90.github.io/sfutils/"
@@ -234,7 +216,7 @@ publications:
 
       - title: "qualtRics: retrieve survey data using the Qualtrics API"
         authors: Ginn, Jasper
-        conference: "Journal of Open Source Software, 3(24), 690, https://doi.org/10.21105/joss.00690 (2018)"
+        conference: "Journal of Open Source Software, 3(24), 690, https://doi.org/10.21105/joss.00690, 2018"
 
       - title: "Learning about Learning at Scale: Methodological Challenges and Recommendations"
         authors: Van der Sluis, Frans, Tim Van der Zee, and Jasper Ginn
@@ -254,12 +236,13 @@ skills:
         level: 80%
 
       - name: Julia
-        level: 60%
+        level: 80%
 
       - name: SQL
         level: 50%
-      - name: NoSQL
-        level: 40%
+
+      - name: Go
+        level: 30%
 
     other:
       - name: Pycharm
@@ -295,6 +278,7 @@ skills:
       - name: MS Azure
       - name: Jekyll
       - name: Hugo
+      - name: NoSQL
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
