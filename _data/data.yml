@@ -251,8 +251,10 @@ skills:
       - name: Jupyter
       - name: Bash
       - name: Git
+      - name: NoSQL
       - name: Docker
       - name: Singularity
+      - name: Slurm
       - name: MLM
       - name: Mplus
       - name: SPSS
@@ -263,10 +265,13 @@ skills:
       - name: Tidyverse
       - name: Plumber
       - name: Pandas
+      - name: Pyspark
+      - name: Scikit-learn
       - name: Numpy
       - name: Dask
       - name: Keras
       - name: Pytorch
+      - name: Tensorflow 2.0
       - name: spaCy
       - name: Gensim
       - name: Pyspark
@@ -278,7 +283,6 @@ skills:
       - name: MS Azure
       - name: Jekyll
       - name: Hugo
-      - name: NoSQL
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
