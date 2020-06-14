@@ -53,14 +53,14 @@ career-profile:
       academic writing. Recently finished my MSc in applied statistics. 
 
 education:
-    - degree: MSc, Methodology & Statistics
-      university: Utrecht University
+    - degree: MSc, Methodology & Statistics (Cum Laude)
+      university: Utrecht University 
       time: 2018 - 2020
       details: |
         This programme focuses on applying, evaluating, and developing quantative methods. Following courses in mathematical statistics, multivariate statistics, data mining and machine learning.
 
-    - degree: BSc, Liberal Arts & Sciences
-      university: Leiden University
+    - degree: BSc, Liberal Arts & Sciences (Magna Cum Laude)
+      university: Leiden University 
       time: 2011 - 2014
 
 profdev:
@@ -131,14 +131,14 @@ experiences:
       time: Jun 2018 - Aug 2018 and Jun 2019 - Aug 2019
       company: Cortical.io, Vienna
       details: |
-        Part of academic team investigating the use of Cortical's 'Semantic Folding'
-        in predicting stock and commodity price volatility using close to one billion
+        Part of an academic team investigating the use of Cortical's Semantic Folding algorithm
+        to predict stock and commodity price volatility using close to one billion
         news articles going back to 2016. Responsibilities include:
 
           - Gaining an in-depth understanding of Cortical.io's core
             technology and its application to large, textual datasets.
           - Develop methods to process, store and query news articles
-            using Cortical.io's semantic folding technology
+            using Cortical.io's semantic folding technology.
           - Use these methods to develop a prototype for visualizing and
             downloading historical and live data representing the nature
             and quantity of news relevant to user-selected stocks, commodities
@@ -183,7 +183,7 @@ projects:
     assignments:
       - title: sleepsimR
         link: "https://github.com/JasperHG90/sleepsimR-documentation"
-        tagline: "This repository contains the research archive accompanying my Master's thesis."
+        tagline: "Research archive accompanying my Master's thesis. Contains the full manuscript and all code to reproduce the obtained results."
 
       - title: qualtRics
         link: "https://github.com/ropensci/qualtRics"
@@ -195,7 +195,7 @@ projects:
 
       - title: Phonorm
         link: "https://jasperhg90.github.io/Phonorm/"
-        tagline: "Phonetic text normalization using Recurrent Neural Networks."
+        tagline: "Model that performs phonetic text normalization using Recurrent Neural Networks. The model was developed to be used in our Chatbot at the Leiden University CFI."
 
       - title: blm
         link: "https://github.com/JasperHG90/blm"
@@ -242,11 +242,11 @@ skills:
         level: 50%
 
       - name: Go
-        level: 30%
+        level: 25%
 
     other:
       - name: Pycharm
-      - name: Visual Studio
+      - name: Visual Studio Code
       - name: Rstudio
       - name: Jupyter
       - name: Bash
@@ -265,9 +265,9 @@ skills:
       - name: Tidyverse
       - name: Plumber
       - name: Pandas
+      - name: Numpy
       - name: Pyspark
       - name: Scikit-learn
-      - name: Numpy
       - name: Dask
       - name: Keras
       - name: Pytorch
